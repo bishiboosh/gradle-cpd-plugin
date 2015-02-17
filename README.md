@@ -119,4 +119,5 @@ the example in [Usage](#usage) section above.
 Contributing
 ------------
 
-You are very welcome to contribute by providing a patch/pull request.
+You are very welcome to contribute by providing a patch/pull request. Please note that running the integration tests from
+within an IDE is currently just supported for IntelliJ IDEA.
